@@ -1,0 +1,7 @@
+1,Chocolate Cake,Cakes,Chocolate,2,400,Whipping Cream
+2,Cream Cake,Cakes,Cream,3,300,Whipping Cream
+3,Banana Muffins,Muffins,Banana,5,50,Whipping Cream
+4,Jelly Doughnut,Doughnuts,Jelly,9,70,Hot chocolate
+5,Milk Toast,Breads,Milk,7,40,French Fries
+6,Short bread Cookies,Cookies,Shortbread,4,30,French Fries
+7,Buckeye Brownies,Brownies,Peanuts,6,120,Hot chocolate
